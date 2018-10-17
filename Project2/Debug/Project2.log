@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Project2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  PrincipalEncadenado.cpp
+  Primitivasencadenadas.cpp
+  Generating Code...
+c:\users\diego\disofenix 117\u.m.n.g\programacion\programacion 3\project2\project2\primitivasencadenadas.cpp(53): warning C4715: 'CPencadenadas::verheavy': not all control paths return a value
+  Project2.vcxproj -> C:\Users\Diego\DISOFENIX 117\U.M.N.G\programacion\programacion 3\Project2\Debug\Diego Suarez.exe
